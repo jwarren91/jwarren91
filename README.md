@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an up-and-coming <a href="https://www.linkedin.com/in/joshua-warren-4a9127265/">IT Professional</a>👍</h1>
+<h1>Hello! I'm Josh, an up-and-coming <a href="https://www.linkedin.com/in/joshua-warren-4a9127265/">IT Professional</a>👍</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
